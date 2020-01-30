@@ -1,0 +1,8 @@
+ul li {
+  list-style-type: none;
+}
+
+.card-box {
+  background-color: #f4f4f4;
+  width: 780px;
+}
